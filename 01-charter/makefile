@@ -1,17 +1,18 @@
+.PHONY: preview spell clean
 
-prepare:
-	-mkdir -p build
+build/informe.pdf: informe.tex build
+	pdflatex --output-directory build informe.tex
+	pdflatex --output-directory build informe.tex
+	pdflatex --output-directory build informe.tex
+
+build:
+	mkdir -p build
+
+preview: build/informe.pdf
+	evince build/informe.pdf &
+
+spell:
+	aspell -t check informe.tex -d es
 
 clean:
 	rm -rf build
-
-doc: prepare
-	pdflatex --output-directory build informe.tex
-	pdflatex --output-directory build informe.tex
-	pdflatex --output-directory build informe.tex
-
-doc-preview: doc
-	evince build/informe.pdf &
-
-doc-spell:
-	aspell -t check informe.tex -d es
