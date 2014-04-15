@@ -1,0 +1,79 @@
+# Hipótesis:
+
+## Hipótesis de Presupuesto Financiero
+
+* Los valores están dados en miles de pesos.
+
+* Presuponemos todos los valores de sueldos incluidos en la hoja titulada
+  "Referenciales".
+
+* Se presuponen valores tope para la adquisición de los terrenos necesarios
+  para la construcción de la planta y la reubicación de los basurales. Estos
+valores deberán estar disponibles una semana antes de la adquisición final de
+los terrenos, para contar con una semana de colchón ante problemas de
+financiamiento o desviaciones de presupuesto.
+
+* Se presuponen valores necesarios para el alquiler de maquinaria para el
+  translado de la basura por semana. Incluye la maquinaria para el
+acondicionamiento del terreno y para el traslado de la basura.
+
+* Se presupone un costo por la promoción de la licitación de contratación,
+  incluyendo costos de sellado de documentos, por separado de los costos por el
+abogado comercial detallado en las hipótesis de presupuesto de esfuerzo.
+
+* Se presupone el costo de la construcción de la planta de reciclaje como un
+  subproyecto con hitos facturables equitativos en cada hito de control. Esto
+significa que un cuarto del costo total se abona en cada hito de control.
+
+* Se presupone un único pago para la adquisición de contenedores a mitad de la
+  tarea relacionada.
+
+* Se propone que el funding sea aportado cada dos meses, cubriendo los
+  siguientes dos meses del proyecto, excepto el último mes que es cubierto por
+un funding adicional por ese mes únicamente.
+
+## Hipótesis de Presupuesto de Esfuerzo
+
+* Consideramos que la semana de trabajo consta de 5 días a 6 horas de trabajo
+  efectivas por día.
+
+* Presuponemos la carga de trabajo para el jefe de proyecto es full time
+  durante todo el proyecto, si bien no tiene tareas planificadas fuera de las
+tareas de definición iniciales y las tareas de cierre finales. Esto es para
+evitar posibles retrasos de surgir problemáticas de administración.
+
+* El jefe de reubicación de basura comienza a trabajar medio día a partir de la
+  tercer semana de proyecto, en la evaluación de las alternativas de terrenos.
+Las semanas posteriores trabaja full time en la planificación del translado de
+basura, en el control del acondicionamiento del terreno y posteriormente en el
+control del translado de la basura.
+
+* Se incorpora un ingeniero ambiental, que trabaja en la fase inicial de
+  selección del terreno junto con el jefe de reubicación, inicialmente
+part-time para facilitar la transición y luego full time para la selección del
+terreno y la planificación de rutas de recolección.
+
+* Se presupone un equipo de 4 obreros, trabajando full time en el
+  acondicionamiento del terreno y posteriormente en el translado de la basura.
+
+* El jefe de la planta de recilado comienza trabajando part time para
+  desarrollar en paralelo las tareas propias como fue presupuesto con el jefe
+de reubicación de basurales. Trabaja full time luego durante un periodo para
+controlar las tareas de licitación del terreno, compra de contenedores de
+basura y diseño de nuevas vías de recolección. En paralelo, controla la
+construcción de la nueva planta de reciclaje. No se supone una carga tan grande
+de control dado que el trabajo está terciarizado. Por ese motivo, una vez
+terminadas las tareas de licitación, compra y diseño de rutas, vuelve a
+trabajar part time en el control de dicha construcción.
+
+* Se agrega un abogado comercial para realizar las tareas de soporte de la
+  licitación, que trabaja full time en el periodo en el que se desarrollan
+dichas tareas.
+
+* Se agrega un operador de compras que trabaja en la adquisición de los
+  contenedores de basura a instalar. Trabaja full time mientras se desarrollan
+las tareas relacionadas.
+
+* Se agrega un ingeniero ambiental para poder paralelizar el trabajo del diseño
+  de las nuevas rutas de recolección. Trabaja full time mientras se desarrollan
+estas tareas.

@@ -17,9 +17,10 @@ pdflatex para generar los pdf's a partir de este tipo de documentos.
   con la herramienta gratuita en
 [http://www.wbstool.com.](http://www.wbstool.com.).
 
-* **ODS**: Los documentos de tablas (como el listado de stakeholders) fueron
-  confeccionados con libreoffice calc. Se exportan a pdf para permitir su
-visualización en caso de no contar con la herramienta.
+* **XLS**: Los documentos de tablas (como el listado de stakeholders) fueron
+  confeccionados con libreoffice calc, guardados en formato excel 97/2000. Se
+exportan a pdf para permitir su visualización en caso de no contar con la
+herramienta.
 
 * **Planner**: Los documentos relacionados con la administración de tiempos
   fueron confeccionados con Planner. Se exportan a html para permitir su
